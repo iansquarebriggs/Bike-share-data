@@ -183,6 +183,9 @@ def row_data(df):
 
 
 def main():
+    """ When city, month, day are entered all functions are displayed.
+        If user doesn't want to see raw data, user is asked if they want to restart. """
+
     while True:
         city, month, day = get_filters()
         df = date_data(city, month, day)
