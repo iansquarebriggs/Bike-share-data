@@ -7,10 +7,16 @@ January 11 2022 bikeshare.py project completed
 Bikeshare data
 
 ### Description
-Describe what your project is about and what it does
+User selects a city, month and day of the week and the program returns stats
+- trip duration
+- gender
+- birth year
+- start and end location
+- and others
 
 ### Files used
 Include the files used
 
 ### Credits
-It's important to give proper credit. Add links to any repo that inspired you or blogposts you consulted.
+Stackoverflow.com
+Udacity knowledge
