@@ -15,8 +15,8 @@ User selects a city, month and day of the week and the program returns stats
 - and others
 
 ### Files used
-Include the files used
+
 
 ### Credits
-Stackoverflow.com
-Udacity knowledge
+- Stackoverflow.com
+- Udacity knowledge
